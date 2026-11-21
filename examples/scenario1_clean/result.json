@@ -1,0 +1,13 @@
+[
+  {
+    "x": 120,
+    "y": 80,
+    "w": 48,
+    "h": 48,
+    "score": 0.9999999999999992,
+    "method": "zncc",
+    "template_name": "template_cross",
+    "scale": 1.0,
+    "angle": 0.0
+  }
+]
