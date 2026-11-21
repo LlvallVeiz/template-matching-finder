@@ -1,0 +1,3 @@
+template-matching-finder 1.0.0 — 2 detection(s)
+cross: box=(60,60,48x48) score=1.0000 method=zncc scale=1.0 angle=0.0
+ring: box=(300,180,56x56) score=0.6600 method=zncc scale=1.0 angle=0.0
