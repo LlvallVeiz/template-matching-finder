@@ -1,0 +1,27 @@
+{
+  "tp": 1,
+  "fp": 0,
+  "fn": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "iou_threshold": 0.5,
+  "verdicts": [
+    {
+      "detection": {
+        "x": 120,
+        "y": 80,
+        "w": 48,
+        "h": 48,
+        "score": 0.9668128974595703,
+        "method": "zncc",
+        "template_name": "template_cross",
+        "scale": 1.0,
+        "angle": 0.0
+      },
+      "verdict": "tp",
+      "iou": 1.0
+    }
+  ],
+  "missed": []
+}
